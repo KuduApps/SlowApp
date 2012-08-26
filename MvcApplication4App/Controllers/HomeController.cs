@@ -10,7 +10,7 @@ namespace MvcApplication4App.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "This is the test branch";
+            ViewBag.Message = "This is the test branch!!";
 
             return View();
         }
